@@ -1,0 +1,9 @@
+footer{
+    position:fixed;
+    color:coral;
+    background-color:gold;
+    bottom:0;
+    width: 100%;
+    line-height: 20px;
+    text-align:center;
+}
